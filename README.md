@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Tech Enthusiast<br>ex ASE-II @Carelon<br>👯 I’m looking to collaborate on Frontend Projects<br>🌱 I’m currently exploring more on Frontend Technology.<br>💬 I'm interested in Blockchain technology<br>
+⚡ Tech Enthusiast<br>Software Developer at CleverPush<br>👯 I’m looking to collaborate on Frontend Projects<br>🌱 I’m currently exploring more on Frontend Technology.<br>💬 I'm interested in Blockchain technology<br>
 
 
 ## 🌐 Socials:
